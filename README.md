@@ -14,7 +14,7 @@ Follow these steps to set up the project in a virtual environment:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/spliteaker.git
+git clone git@github.com:ih810/spliteaker.git
 
 cd spliteaker
 ```
@@ -22,25 +22,21 @@ cd spliteaker
 
 On Windows
 ```
-
 python -m venv venv
 venv\Scripts\activate
 ```
 
 On macOS and Linux
 ```
-
 python3 -m venv venv
 source venv/bin/activate
 ```
 ### 3. Upgrade pip
 ```
-
 pip install --upgrade pip
 ```
 ### 4. Install the Required Packages
 ```
-
 pip install -r requirements.txt
 ```
 ### 5. Place Your Video File   
