@@ -1,0 +1,6 @@
+numpy
+pydub
+pyannote.audio
+torch
+ffmpeg-python
+
